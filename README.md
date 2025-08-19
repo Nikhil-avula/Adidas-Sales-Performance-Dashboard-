@@ -53,7 +53,7 @@ The dataset used in this project contains Adidas sales records with the followin
 
 ## 🔗 How to Use
 
-1. Open the **Power BI file (`Adidas_Dashboard.pbix`)** in Power BI Desktop.
+1. Open the **Power BI file (`Power BI(Adidas Project).pbix`)** in Power BI Desktop.
 2. Explore insights using the **interactive slicers** (Region, Year, Product, Retailer).
 3. Drill down into visuals for deeper analysis.
 
